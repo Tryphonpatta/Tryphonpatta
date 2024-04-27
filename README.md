@@ -13,9 +13,8 @@ I'm currently studying in Computer Engineering at Kasetsart University
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tryphonpatta&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Tryphonpatta&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-trophies.vercel.app/?username=Tryphonpatta&theme=chalk&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Tryphonpatta&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
