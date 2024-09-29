@@ -18,3 +18,4 @@ I'm currently studying in Computer Engineering at Kasetsart University
 ---
 [![](https://visitcount.itsvg.in/api?id=Tryphonpatta&icon=0&color=0)](https://visitcount.itsvg.in)
 
+![Leetcode Stats](https://leetcard.jacoblin.cool/Tryphonpatta?theme=nord&ext=heatmap)
