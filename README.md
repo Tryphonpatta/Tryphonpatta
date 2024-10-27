@@ -1,6 +1,5 @@
 # 💫 About Me:
-I'm currently studying in Computer Engineering at Kasetsart University
-
+Dynamic Fullstack Developer and Backend Developer with a background in Computer Engineering. I've honed my skills through internships, creating RESTful APIs, working with micro-service applications, and delving into the world of DevOps. My hands-on experience includes developing REST APIs, designing database architecture, and crafting authentication systems. I possess strong problem-solving abilities, a collaborative mindset, and a passion for algorithm development. My dedication to understanding the intricacies of computer systems drives my ambition in the tech industry.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/golfpattad) 
