@@ -16,4 +16,4 @@ jobs:
         with:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           COMMIT_MESSAGE: "My commit message to update badges" # optional
-          CREDLY_USER: <patthadon-tantiameorn> # optional, but default will use the same from github
+          CREDLY_USER: <beebobbob956@gmail.com> # optional, but default will use the same from github
